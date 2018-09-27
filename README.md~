@@ -1,0 +1,37 @@
+Koku (KOKU)
+Ticker: KOKU
+Pow+PoS
+
+
+PoW:
+
+Algo: Qubit
+Retargeting: 30 Seconds
+Maturity: 25 Blocks
+Max Block Size: 8MB
+Pow Blocks: 1.051.200
+Pow Supply: 1.000.366.440
+
+Block Structure:
+Blocks 0-10: 500.000.000 Propagation
+Blocks 11-1051200: 476 KOKU 1 year mining + Network secure and running
+
+Node:
+
+RPC port: 8887
+Port:     8886
+Primary Node: 52.25.229.183
+
+
+PoS:
+
+Pos Start: 1.050.100 1k Blocks Before PoW End 
+Fixed PoS Subsidy: 10 KOKU
+PoS Inflation: 10.512.000 Approx. KOKU minted every year.
+Min. Stake Age: 6 Hours
+Max. Stake Age: Unlimited
+
+
+Self Subsidy:
+50% Each block go to foundation.
+At Pow end(1 year), foundation will hold 25% of token.
