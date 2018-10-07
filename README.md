@@ -2,7 +2,6 @@ Koku (KOKU)
 Ticker: KOKU
 Pow+PoS
 
-
 PoW:
 
 Algo: Qubit
@@ -38,3 +37,9 @@ At Pow end(1 year), foundation will hold 25% of token.
 
 Note:
 95 Blocks has been initially minted to test network and checkpoints add
+
+Compiling Tips:
+If you get issue while compiling:
+MKDIR obi
+Got to levedb folder and type: MAKE CLEAN
+then build
