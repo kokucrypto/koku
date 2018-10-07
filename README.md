@@ -40,6 +40,6 @@ Note:
 
 Compiling Tips:
 If you get issue while compiling:
-MKDIR obi
+MKDIR obj
 Got to levedb folder and type: MAKE CLEAN
 then build
